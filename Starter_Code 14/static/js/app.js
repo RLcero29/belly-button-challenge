@@ -51,9 +51,7 @@ function buildCharts(sample) {
     }
 
     let bubbleLayout = {
-      title: "Bubble Chart",
-      height: 600,
-      width: 1200
+      title: "Bubble Chart"
     }
 
     // Render the Bubble Chart
